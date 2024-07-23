@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="https://grishanova.study.mcart.ru" uploadOnCheckin="b7ca69fe-0d18-4b81-872d-009282805e57">
+    <serverData>
+      <paths name="https://grishanova.study.mcart.ru">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/grishanova/www" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+          <excludedPaths>
+            <excludedPath path="/home/grishanova/www/bitrix" />
+            <excludedPath local="true" path="$PROJECT_DIR$/bitrix" />
+          </excludedPaths>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myUploadOnCheckinName" value="https://grishanova.study.mcart.ru" />
+  </component>
+</project>
